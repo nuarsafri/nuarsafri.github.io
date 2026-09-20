@@ -19,10 +19,10 @@ window.INVITATION_CONFIG = {
 
   // Pengantin
   couple: {
-    groom: "Hafizzuddin Fakhrul",
+    groom: "HAFIZZUDDIN FAKHRUL AKMAL BIN HASHIM",
     groomShort: "Hafizzuddin",
     groomInitials: "H",
-    bride: "Rabiatul Adawiyah",
+    bride: "RABIATUL ADAWIYAH BINTI MD YUSOF",
     brideShort: "Adawiyah",
     brideInitials: "R",
     monogram: "H & R",
@@ -81,11 +81,11 @@ window.INVITATION_CONFIG = {
   // Hubungi (Contacts)
   contacts: [
     {
-      name: "Hafizzudin",
-      role: "Pengantin / Wakil",
+      name: "FAUZAN",
+      role: "ABANG PENGANTIN",
       phoneDisplay: "012 270 2737",
       phoneRaw: "60122702737",
-      whatsappMessage: "Salam Hafizzudin, saya ingin bertanya tentang Majlis Kesyukuran pada 24 Oktober 2026."
+      whatsappMessage: "Salam Fauzan, saya ingin bertanya tentang Majlis Kesyukuran pada 24 Oktober 2026."
     },
     {
       name: "Hj Hashim",
